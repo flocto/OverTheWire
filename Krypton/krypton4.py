@@ -32,4 +32,3 @@ for i, c in enumerate(ct):
     msg += chr(ord("A") + (ind - shift) % 26)
 
 print(msg)
-# CLEARTEXT

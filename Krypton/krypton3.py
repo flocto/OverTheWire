@@ -24,4 +24,3 @@ for c in ct:
     if c in dict:
         msg += dict[c]
 print(msg) 
-# BRUTE

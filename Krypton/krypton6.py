@@ -18,4 +18,3 @@ for i, c in enumerate(ciph):
         ind += 26
     msg += alpha[ind]
 print(msg)
-# LFSRISNOTRANDOM

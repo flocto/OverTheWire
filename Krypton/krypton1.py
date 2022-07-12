@@ -18,4 +18,3 @@ for i in range(26): # 26 rotations, (13, 14)
     print(msg)
 
 # best one is i = 13
-# LEVEL TWO PASSWORD ROTTEN

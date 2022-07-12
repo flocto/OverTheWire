@@ -18,4 +18,3 @@ for i in range(26): # 26 rotations, (12, 13)
     print(msg, i)
 
 # best one is i = 12
-# CAESARISEASY
